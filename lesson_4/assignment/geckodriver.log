@@ -1,0 +1,1762 @@
+1634367169771	geckodriver	INFO	Listening on 127.0.0.1:65299
+1634367169797	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "65300" "-foreground" "-no-remote" "-profile" "/var/folders/my/rj3k72nx0s30tcggg___wbnc0000gq/T/rust_mozprofileIJSyGZ"
+1634367170764	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/my/rj3k72nx0s30tcggg___wbnc0000gq/T/rust_mozprofileIJSyGZ/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:65300/devtools/browser/81670210-2881-e54b-8b3c-94762327b7f8
+1634367173403	Marionette	INFO	Listening on port 65303
+1634367173495	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Image (https://ad.doubleclick.net/favicon.ico?ad=300x250&ad_box_=1&adnet=1&showad=1&size=250x250) wait timeout: did not return within 800ms
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBeW4A8KRQKaUXRhZhiUEBaonRmLgznW2QKT5Kp-z2M.js line 1 > eval line 458 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+1634367314040	Marionette	INFO	Stopped listening on port 65303
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390114,name=PContent::Msg_AccumulateChildHistograms) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390119,name=PContent::Msg_RecordDiscardedData) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /var/folders/my/rj3k72nx0s30tcggg___wbnc0000gq/T/rust_mozprofileIJSyGZ/protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634367357218	geckodriver	INFO	Listening on 127.0.0.1:50267
+1634367357743	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50268" "-foreground" "-no-remote" "-profile" "/var/folders/my/rj3k72nx0s30tcggg___wbnc0000gq/T/rust_mozprofileW3XNOd"
+1634367358664	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/my/rj3k72nx0s30tcggg___wbnc0000gq/T/rust_mozprofileW3XNOd/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:50268/devtools/browser/99a9dfff-620e-6a49-9f1f-352e4d10dd90
+1634367361221	Marionette	INFO	Listening on port 50274
+1634367361266	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634367389578	geckodriver	INFO	Listening on 127.0.0.1:50773
+1634367390099	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50774" "-foreground" "-no-remote" "-profile" "/var/folders/my/rj3k72nx0s30tcggg___wbnc0000gq/T/rust_mozprofile42hGKs"
+1634367390994	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/my/rj3k72nx0s30tcggg___wbnc0000gq/T/rust_mozprofile42hGKs/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:50774/devtools/browser/7375b19c-8891-2147-9066-10ce4ecc9cbe
+1634367394155	Marionette	INFO	Listening on port 50780
+1634367394359	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ynet.co.il/home/0,7340,L-8,00.html line 313 > injectedScript, line 1: TypeError: window._tfa.push is not a function
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1634368395093	Marionette	INFO	Stopped listening on port 50780
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1634368400733	Marionette	INFO	Stopped listening on port 50274
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634379116343	geckodriver	INFO	Listening on 127.0.0.1:53153
+1634379116358	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53154" "-foreground" "-no-remote" "-profile" "/var/folders/my/rj3k72nx0s30tcggg___wbnc0000gq/T/rust_mozprofileeDO8oy"
+1634379117494	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/my/rj3k72nx0s30tcggg___wbnc0000gq/T/rust_mozprofileeDO8oy/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:53154/devtools/browser/8a1473ed-2445-5b40-9833-8bb144991774
+1634379121117	Marionette	INFO	Listening on port 53157
+1634379121233	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CtfsWAsRe2m3N424Qc1nuWYtSGM1BvOIuby86xg17sc.js line 1 > eval line 7185 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1634381056267	Marionette	INFO	Stopped listening on port 53157
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1634407281009	geckodriver	INFO	Listening on 127.0.0.1:63270
+1634407281564	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63271" "-foreground" "-no-remote" "-profile" "/var/folders/my/rj3k72nx0s30tcggg___wbnc0000gq/T/rust_mozprofileaTJcps"
+1634407282283	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/my/rj3k72nx0s30tcggg___wbnc0000gq/T/rust_mozprofileaTJcps/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:63271/devtools/browser/73f062d8-d8f9-2540-92bc-0a7e30d8bb48
+1634407284562	Marionette	INFO	Listening on port 63277
+1634407284693	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1634407331993	geckodriver	INFO	Listening on 127.0.0.1:63508
+1634407332010	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-extensions" "--remote-debugging-port" "63509" "-foreground" "-no-remote" "-profile" "/var/folders/my/rj3k72nx0s30tcggg___wbnc0000gq/T/rust_mozprofileIs8pX1"
+1634407332861	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/my/rj3k72nx0s30tcggg___wbnc0000gq/T/rust_mozprofileIs8pX1/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:63509/devtools/browser/fb491af9-8593-094f-8437-5fd3a2ac1845
+1634407334962	Marionette	INFO	Listening on port 63512
+1634407335106	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CtfsWAsRe2m3N424Qc1nuWYtSGM1BvOIuby86xg17sc.js line 1 > eval line 4870 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1634407365363	Marionette	INFO	Stopped listening on port 63512
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634407367972	Marionette	INFO	Stopped listening on port 63277
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634407810358	geckodriver	INFO	Listening on 127.0.0.1:64641
+1634407810382	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "headless" "--remote-debugging-port" "64642" "-foreground" "-no-remote" "-profile" "/var/folders/my/rj3k72nx0s30tcggg___wbnc0000gq/T/rust_mozprofileK8wrpD"
+1634407811796	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/my/rj3k72nx0s30tcggg___wbnc0000gq/T/rust_mozprofileK8wrpD/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:64642/devtools/browser/f7f742b2-7cf6-1942-b54d-f379b2f911e3
+1634407814621	Marionette	INFO	Listening on port 64645
+1634407814670	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CtfsWAsRe2m3N424Qc1nuWYtSGM1BvOIuby86xg17sc.js line 1 > eval line 6794 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-10-16, line 1: DataCloneError: The object could not be cloned.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+2021-10-19 12:31:17.672 firefox-bin[85550:1297167] AdjustToIronwoodHotKeyChange - CG (hotmod:1) HotKey : hotKey enabled = 1, keyChar=0xfffbffff, virtKey=0x40000, flags=0x0 
+2021-10-20 10:18:51.866 firefox-bin[85550:1297167] AdjustToIronwoodHotKeyChange - CG (hotmod:1) HotKey : hotKey enabled = 1, keyChar=0xfffbffff, virtKey=0x40000, flags=0x0 
+2021-10-20 12:30:39.646 firefox-bin[85550:1297167] AdjustToIronwoodHotKeyChange - CG (hotmod:1) HotKey : hotKey enabled = 1, keyChar=0xfffbffff, virtKey=0x40000, flags=0x0 
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: NotFoundError: Could not move source file(/var/folders/my/rj3k72nx0s30tcggg___wbnc0000gq/T/rust_mozprofileK8wrpD/bookmarkbackups/bookmarks-2021-10-18_11_kIieAYQcaNI25709ypNHnw==.jsonlz4) because it does not exist
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+1634812052449	Marionette	INFO	Stopped listening on port 64645
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634812638469	geckodriver	INFO	Listening on 127.0.0.1:61865
+1634812639056	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61866" "-foreground" "-no-remote" "-profile" "/var/folders/my/rj3k72nx0s30tcggg___wbnc0000gq/T/rust_mozprofilegeZj7w"
+1634812640185	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/my/rj3k72nx0s30tcggg___wbnc0000gq/T/rust_mozprofilegeZj7w/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:61866/devtools/browser/aa9ff418-7c93-1949-8e2b-42a29b655ffb
+1634812643330	Marionette	INFO	Listening on port 61872
+1634812643457	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBeW4A8KRQKaUXRhZhiUEBaonRmLgznW2QKT5Kp-z2M.js line 1 > eval line 515 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBeW4A8KRQKaUXRhZhiUEBaonRmLgznW2QKT5Kp-z2M.js line 1 > eval line 7544 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 17182, MediaDecoderStateMachine #1] WARNING: 1267a4b00 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBeW4A8KRQKaUXRhZhiUEBaonRmLgznW2QKT5Kp-z2M.js line 1 > eval line 4772 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBeW4A8KRQKaUXRhZhiUEBaonRmLgznW2QKT5Kp-z2M.js line 1 > eval line 4039 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 17182, MediaDecoderStateMachine #1] WARNING: 11b48c700 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?gdpr=0&p=156307&userIdMacro=PM_UID&us_privacy=1---&predirect=https%3A%2F%2Fsync.taboola.com%2Fsg%2Frtb-pubmatic-network%2F1%2Frtb-h%2F%3Fgdpr%3D0%26taboola_hm%3DPM_UID%26orig%3Dvideo%26us_privacy%3D1---, line 1: ReferenceError: CommonMeta is not defined
+1634814313489	geckodriver	INFO	Listening on 127.0.0.1:63034
+1634814313510	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63035" "-foreground" "-no-remote" "-profile" "/var/folders/my/rj3k72nx0s30tcggg___wbnc0000gq/T/rust_mozprofilevMqKxK"
+1634814314864	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/my/rj3k72nx0s30tcggg___wbnc0000gq/T/rust_mozprofilevMqKxK/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:63035/devtools/browser/50bd2bca-b5fb-e441-b398-be8b1b80e3e5
+1634814317669	Marionette	INFO	Listening on port 63039
+1634814317732	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBeW4A8KRQKaUXRhZhiUEBaonRmLgznW2QKT5Kp-z2M.js line 1 > eval line 5369 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBeW4A8KRQKaUXRhZhiUEBaonRmLgznW2QKT5Kp-z2M.js line 1 > eval line 584 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBeW4A8KRQKaUXRhZhiUEBaonRmLgznW2QKT5Kp-z2M.js line 1 > eval line 4492 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Managed to allocate after flush.
+1634814563693	Marionette	INFO	Stopped listening on port 63039
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /var/folders/my/rj3k72nx0s30tcggg___wbnc0000gq/T/rust_mozprofilevMqKxK/protections.sqlite
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634814570220	Marionette	INFO	Stopped listening on port 61872
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
